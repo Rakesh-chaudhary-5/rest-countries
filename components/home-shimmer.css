@@ -1,0 +1,16 @@
+.home-shimmer{
+    height: 504px;
+    
+}
+.home-shimmer h2{
+    background-color: gray;
+    color: grey;
+}
+.home-shimmer p{
+    background-color: gray;
+    color: grey;
+}
+.home-shimmer .img{
+    background-color: gray;
+    height: 180px;
+}
